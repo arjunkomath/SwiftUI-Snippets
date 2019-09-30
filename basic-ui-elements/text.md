@@ -4,8 +4,6 @@ description: A view that displays one or more lines of read-only text.
 
 # Text
 
-
-
 {% embed url="https://developer.apple.com/documentation/swiftui/text" %}
 
 ### Simple Text
