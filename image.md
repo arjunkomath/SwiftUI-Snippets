@@ -44,3 +44,24 @@ Image(uiImage: UIImage(data: contact.avatarData!)!)
                     .renderingMode(.original)
 ```
 
+### Text below Image
+
+```swift
+VStack {
+    Image(systemName: "person.crop.circle")
+        .resizable()
+        .frame(width: 75.0, height: 75.0)
+        .clipShape(Circle())
+        .overlay(
+            Circle().stroke(Color.pink, lineWidth: 4)
+    )
+        .shadow(radius: 10)
+        .padding(.top)
+    
+    Text("Arjun Komath")
+        .font(.title)
+}
+```
+
+![Text below Image](.gitbook/assets/screen-shot-2019-09-30-at-9.19.16-pm.png)
+
