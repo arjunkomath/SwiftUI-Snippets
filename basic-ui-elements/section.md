@@ -39,7 +39,7 @@ struct ContentView: View {
 }
 ```
 
-![Sections in a List](.gitbook/assets/screen-shot-2019-09-30-at-9.50.15-pm.png)
+![Sections in a List](../.gitbook/assets/screen-shot-2019-09-30-at-9.50.15-pm.png)
 
 ### Section in a [Form](form.md)
 
@@ -66,5 +66,5 @@ struct ContentView: View {
 }
 ```
 
-![Section in a Form](.gitbook/assets/screen-shot-2019-09-30-at-9.53.20-pm.png)
+![Section in a Form](../.gitbook/assets/screen-shot-2019-09-30-at-9.53.20-pm.png)
 

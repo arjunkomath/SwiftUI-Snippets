@@ -63,5 +63,5 @@ VStack {
 }
 ```
 
-![Text below Image](.gitbook/assets/screen-shot-2019-09-30-at-9.19.16-pm.png)
+![Text below Image](../.gitbook/assets/screen-shot-2019-09-30-at-9.19.16-pm.png)
 

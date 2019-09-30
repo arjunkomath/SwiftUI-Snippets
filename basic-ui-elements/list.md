@@ -17,7 +17,7 @@ List {
 }
 ```
 
-### List inside [NavigationView](navigationview.md)
+### List inside [NavigationView](../layout-and-views/navigationview.md)
 
 ```swift
 NavigationView {
@@ -31,7 +31,7 @@ NavigationView {
 }
 ```
 
-![List inside NavigationView](.gitbook/assets/screen-shot-2019-09-30-at-9.24.24-pm.png)
+![List inside NavigationView](../.gitbook/assets/screen-shot-2019-09-30-at-9.24.24-pm.png)
 
 ### List using ForEach
 
